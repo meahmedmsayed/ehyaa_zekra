@@ -7,7 +7,7 @@ This repository is the official proof of ownership for the Ehyaa Zekra project.
 
 ### Owner
 **Ahmed M. Sayed**
-Website: https://ehyaa-zekra.online
+Website: https://ehyaazekra.online
 Proof Date: 2026-10-10 22:23:22 UTC
 SHA256: 796adab7d2fd3318c855d9948bfae7294462fd51062af477832cbe602fbdff60
 
